@@ -53,6 +53,9 @@ or for piss off a few loser friends...
 
 ENJOY YOUR MEAL!
 
-<img src="https://imgur.com/hSMQXl8">
+<img src=>
+
+<a href="https://imgur.com/hSMQXl8"><img src=""https://imgur.com/hSMQXl8"" 
+alt="Batchman&Robby" width="600" height="450" border="100" /></a> 
  
 #Copyright Azazael1sC0m1ngBack! 2017
