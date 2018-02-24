@@ -1,9 +1,6 @@
                  BatchMan& Roby
            simply terrible bat launcher
                      
-
-
-
                you are a criminal!
               then Batchman & Robby 
               came to kick your ass!
@@ -14,9 +11,6 @@
     we can always call our friend Chuck norris
                      
                      WATTA!!!
-
-
-
 
 
 
