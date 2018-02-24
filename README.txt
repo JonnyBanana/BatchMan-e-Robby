@@ -53,7 +53,5 @@ or for piss off a few loser friends...
 
 ENJOY YOUR MEAL!
 
-![alt text](https://i.imgur.com/hSMQXl8.png)
 
- 
-#Copyright Azazael1sC0m1ngBack! 2017
+ #Copyright Azazael1sC0m1ngBack! 2017
