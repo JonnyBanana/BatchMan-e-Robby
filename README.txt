@@ -53,6 +53,6 @@ or for piss off a few loser friends...
 
 ENJOY YOUR MEAL!
 
- ![Alt text](https://i.imgur.com/hSMQXl8.png "Dark Samurai Gundam Circuit Diorama by $appoh$ama & HowToHackItalia")
+ ![Alt text](https://.imgur.com/hSMQXl8.png "Dark Samurai Gundam Circuit Diorama by $appoh$ama & HowToHackItalia")
  
 #Copyright Azazael1sC0m1ngBack! 2017
