@@ -53,7 +53,7 @@ or for piss off a few loser friends...
 
 ENJOY YOUR MEAL!
 
-![alt text](https://imgur.com/hSMQXl8)
+<blockquote class="imgur-embed-pub" lang="en" data-id="hSMQXl8"><a href="//imgur.com/hSMQXl8">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
  
 #Copyright Azazael1sC0m1ngBack! 2017
