@@ -1,7 +1,7 @@
  
 
                  BatchMan& Robby 
-           simply terrible bat launcher
+           a terrible bat launcher
                      
 
       _==/           i     i           \==_
