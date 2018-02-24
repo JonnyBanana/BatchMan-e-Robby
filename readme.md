@@ -14,7 +14,7 @@
 
 
 
-BatchMan& Robby is Simple CD whit a .bat file and a .inf file
+BatchMan& Robby is a Simple CD with a .bat file and a .inf file
 The .bat file is the BinaryBomb, a Stupid Virus of my creation, written in Batch Script for the fun
 and the .inf file which serves to start automatically the BinaryBomb
 you have to burn it to CD or DVD as a data disc
