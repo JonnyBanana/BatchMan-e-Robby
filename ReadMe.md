@@ -13,6 +13,12 @@
                      WATTA!!!
 
 
+</br>
+
+![alt text](https://i.imgur.com/hSMQXl8.png)
+
+</br>
+
 
 BatchMan& Robby is a Simple CD with a .bat file and a .inf file
 The .bat file is the BinaryBomb, a Stupid Virus of my creation, written in Batch Script for the fun
@@ -32,9 +38,7 @@ or for piss off a few loser friends...
 
 ENJOY YOUR MEAL!
 
-</br>
 
-![alt text](https://i.imgur.com/hSMQXl8.png)
 
  
 #Copyright Azazael1sC0m1ngBack! 2017
