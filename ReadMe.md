@@ -44,4 +44,4 @@ ENJOY YOUR MEAL!
 
 
  
-#Copyright Azazael1sC0m1ngBack! 2017
+#FreeCopyright Azazael1sC0m1ngBack!
